@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ConsoleGUI/ConsoleGUI.csproj" Id="6a6fd3d7-4450-4e5f-8c65-af538ad32db5" />
+  <Project Path="Lab1/BookSwap.csproj" />
+</Solution>
