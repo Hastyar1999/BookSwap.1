@@ -5,7 +5,7 @@ using System.Text;
 namespace BookSwap
 {
     internal class Affär
-    {
+    { public 
        
     }
 }
